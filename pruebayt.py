@@ -6,10 +6,10 @@ import time
 MODEL_PATH = "yolov8n.pt"
 
 # PC Linux Mint
-VIDEO_PATH = "/home/jevix/Escritorio/cruce.mkv"
+#VIDEO_PATH = "/home/jevix/Escritorio/cruce.mkv"
 
 # Raspberry
-# VIDEO_PATH = "/home/autotrol/cruce.mkv"
+VIDEO_PATH = "/home/autotrol/cruce.mkv"
 
 VEHICLE_CLASSES = [2, 3, 5, 7]
 
